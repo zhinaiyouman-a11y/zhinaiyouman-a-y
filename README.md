@@ -1,6 +1,7 @@
 # zhinaiyouman-a11y
 
-名前：有満　稚奈
+<h2>name</h2>
+有満　稚奈
 
 所属：ITスペシャリスト科
 
