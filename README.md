@@ -1,4 +1,4 @@
-# zhinaiyouman-a-y
+# zhinaiyouman-a11y
 
 名前：有満　稚奈
 
